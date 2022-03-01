@@ -1,0 +1,5 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 35px 40px 35px
+}

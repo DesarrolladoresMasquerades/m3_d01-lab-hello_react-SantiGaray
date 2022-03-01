@@ -1,0 +1,5 @@
+.Features {
+    display: flex;
+    flex: column;
+    justify-content: space-evenly;
+}
